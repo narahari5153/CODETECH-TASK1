@@ -12,7 +12,7 @@ Mentor: Neela Santhosh Kumar
 
 Overview of the Project
 
-Project: Exploratory Java Programming on Simple Calculator Screenshot 2024-12-29 192642
+Project: Exploratory Java Programming on Simple Calculator
 
 ![Screenshot from 2024-12-29 19-38-29](https://github.com/user-attachments/assets/e83cb69f-4515-4ae6-a0b7-8da0cf9e2f3e)
 
